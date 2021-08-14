@@ -29,6 +29,7 @@ url: https://pratyush1606.github.io # the base hostname & protocol for your site
 destination: ./docs
 twitter_username: jekyllrb
 github_username:  Pratyush1606
+linkedin_username: pratyush1606
 
 # Build settings
 theme: minima
