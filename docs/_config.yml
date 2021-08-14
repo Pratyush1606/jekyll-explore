@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  Pratyush1606
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: minima
 plugins:
   - jekyll-feed
 
