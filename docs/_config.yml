@@ -56,5 +56,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-minima:
-  skin: dark
+skin: dark
